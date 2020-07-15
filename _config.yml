@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: 'Tianmeng Wu's Blog'
-description: 'This Blog is mainly used to discuss or share something learned'
-keywords: 'Edge computing,Embedded system,AI'
+title: 'Blog of Tianmeng Wu'
+description: 'your web description'
+keywords: 'Edge computing,Embeded system and AI'
 url: 'https://CoreyMmm.github.io' # your host
 
 # nav 中文字符空格：&emsp;
@@ -15,30 +15,30 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 # 博主
 author: true
 name: 'Tianmeng Wu'
-NickName: '吴天梦'
-webtitle: 'Tianmeng Wu's Blog'
-bio: ''
+NickName: 'Corey'
+webtitle: 'your awesome webtitle'
+bio: 'your awesome bio'
 about: true
 aboutyou: 'your introduction'
-portraits: '/assets/profile.jpeg' # your portraits image file path
+portraits: '/assets/123.jpg' # your portraits image file path
 
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: '719710284@qq.com'
-  weixin: '' # 你的微信二维码存放的地址
-  qq: 'http://wpa.qq.com/msgrd?v=3&uin='719710284'&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  #github: ''
-  #Codepen: ''
+  weixin: '/assets/wx.jpg' # 你的微信二维码存放的地址
+  qq: '/assets/qq.jpg' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
+#  github: ''
+ # Codepen: ''
  # weibo: ''
-  #instagram: ''
-  #Twitter: ''
-  #Dribbble: ''
+  instagram: ''
+  Twitter: ''
+ # Dribbble: ''
  # Facebook: ''
-  #Google: ''
-  #zhihu: ''
-  #juejin: ''
-  #twitch: ''
+#  Google: ''
+ # zhihu: ''
+ # juejin: ''
+ # twitch: ''
 
 # 分页
 paginate: 2
@@ -46,7 +46,7 @@ paginatepath: ['page:num']
 
 # since
 footer:
-  since: 2020
+  since: 2019
 
 # Markdown
 markdown: kramdown
