@@ -16,10 +16,10 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 author: true
 name: 'Tianmeng Wu'
 NickName: 'Corey'
-webtitle: 'Tianmeng Wu'''s Blog'
+webtitle: 'Blog of Tianmeng Wu'
 bio: 'master student of computer science'
 about: true
-aboutyou: 'Edge computing,Embeded system and AI related topics'
+aboutyou: '           Edge computing,Embeded system and AI related topics'
 portraits: '/assets/123.jpg' # your portraits image file path
 
 # SNS
