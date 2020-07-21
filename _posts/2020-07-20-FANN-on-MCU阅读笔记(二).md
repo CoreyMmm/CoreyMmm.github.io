@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'FANN-on-MCU阅读笔记'
+title: 'FANN-on-MCU阅读整理（二）'
 date: 2020-07-20
 author: Tianmeng Wu
-color: rgb(255,210,32)
+color: rgb(131,175,155)
 cover: '../assets/FANN/infiniwolf.png'
 tags: ARM RISCV MLP
 
