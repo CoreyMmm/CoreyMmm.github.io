@@ -5,7 +5,7 @@ date: 2020-07-20
 author: Tianmeng Wu
 color: rgb(255,210,32)
 cover: '../assets/FANN/infiniwolf.png'
-tags: ARM
+tags: ARM RISCV MLP
 
 ---
 
