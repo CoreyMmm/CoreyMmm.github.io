@@ -11,9 +11,8 @@ tags: ARM RISCV MLP
 
 > FANN-on-MCU : An Open-Source Toolkit for Energy-Efficient Neural Network Inference at the Edge of the Internet of Things  
 >
-> author:Xiaying Wang, *Student Member, IEEE,* Michele Magno, *Senior Member, IEEE,*
+> author:Xiaying Wang, *Student Member, IEEE,* Michele Magno, *Senior Member, IEEE,*Lukas Cavigelli, *Member, IEEE,* Luca Benini, *Fellow, IEEE*
 >
-> Lukas Cavigelli, *Member, IEEE,* Luca Benini, *Fellow, IEEE*
 
 # 一、摘要和研究背景
 
@@ -25,9 +24,9 @@ tags: ARM RISCV MLP
 
 1. 发布了FANN-ON-MCU的开源框架。
 
-2. 在内存大小的限制下，对该框架性能在RISCV芯片和ARM Cortex系列芯片条件下做了详细的对比。
+2. 在内存大小的限制下，对该框架生成代码性能在RISCV芯片和ARM Cortex系列芯片条件下做了详细的对比。
 
-3. 在嵌入式系统的多级存储结构下，展示了针对不同大小网络的优化方法 。
+3. 在嵌入式系统的多级存储结构下，展示了模型大小对处理器计算性能的影响。
 
 4. 其他性能（加速和功耗方面）和代码实现上的贡献。
 

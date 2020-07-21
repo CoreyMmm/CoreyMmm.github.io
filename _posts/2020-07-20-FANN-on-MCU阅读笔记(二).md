@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FANN-on-MCU阅读整理（二）'
-date: 2020-07-20
+date: 2020-07-21
 author: Tianmeng Wu
 color: rgb(131,175,155)
 cover: '../assets/FANN/infiniwolf.png'
