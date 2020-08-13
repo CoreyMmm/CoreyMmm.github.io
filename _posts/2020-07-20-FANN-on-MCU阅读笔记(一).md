@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FANN-on-MCU阅读整理（二）'
+title: 'FANN-on-MCU阅读整理（一）'
 date: 2020-07-20
 author: Tianmeng Wu
 color: rgb(131,175,155)
