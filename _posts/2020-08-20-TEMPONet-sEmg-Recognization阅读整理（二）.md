@@ -3,7 +3,7 @@ layout: post
 title: 'TEMPONet sEmg Recognization阅读整理（二）'
 date: 2020-08-20
 author: Tianmeng Wu
-color: rgb(131,175,155)
+color: rgb(133,109,114)
 cover: '../assets/TEMPONet/图片13.png'
 tags: EMG GAP8 RISCV TCN
 
